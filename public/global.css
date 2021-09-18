@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Courier Prime";
+    src: url(/fonts/courier-prime.ttf);
+}
+
+#typewriter a:link,
+#typewriter a:visited {
+    color: #e83e8c;
+    text-decoration: none;
+}
+
+#typewriter a:hover {
+    text-decoration: underline;
+}
